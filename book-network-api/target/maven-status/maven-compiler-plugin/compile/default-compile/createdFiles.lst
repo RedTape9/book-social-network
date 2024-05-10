@@ -1,0 +1,15 @@
+io/github/redtape9/booknetwork/security/SecurityConfig.class
+io/github/redtape9/booknetwork/user/User$UserBuilder.class
+io/github/redtape9/booknetwork/security/JwtFilter.class
+io/github/redtape9/booknetwork/user/Token.class
+io/github/redtape9/booknetwork/user/Token$TokenBuilder.class
+io/github/redtape9/booknetwork/config/BeansConfig.class
+io/github/redtape9/booknetwork/user/User.class
+io/github/redtape9/booknetwork/security/JwtService.class
+io/github/redtape9/booknetwork/user/UserRepository.class
+io/github/redtape9/booknetwork/role/Role$RoleBuilder.class
+io/github/redtape9/booknetwork/security/UserDetailsServiceImpl.class
+io/github/redtape9/booknetwork/BookNetworkApiApplication.class
+io/github/redtape9/booknetwork/role/RoleRepository.class
+io/github/redtape9/booknetwork/user/TokenRepository.class
+io/github/redtape9/booknetwork/role/Role.class

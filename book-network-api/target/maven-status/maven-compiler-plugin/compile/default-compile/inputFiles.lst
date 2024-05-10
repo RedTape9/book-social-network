@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/security/JwtService.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/security/UserDetailsServiceImpl.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/user/UserRepository.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/role/RoleRepository.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/BookNetworkApiApplication.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/user/User.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/config/BeansConfig.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/user/Token.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/role/Role.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/user/TokenRepository.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/security/SecurityConfig.java
+/Users/macbook/Desktop/JAVA/book-social-network/book-network-api/src/main/java/io/github/redtape9/booknetwork/security/JwtFilter.java
